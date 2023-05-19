@@ -46,8 +46,8 @@ The project contains three files :
 
 <ul>
   <li><a href="https://melybee-07.github.io/Pig-Gme/">Live Demo Link</a></li>
-  <li><a href="https://melybee-07.github.io/Pig-Gme/"><img src="./Capture d'écran 2023-05-19 164252"></a></li>
-  <li><a href="https://melybee-07.github.io/Pig-Gme/"><img src="./Capture d'écran 2023-05-19 164227"></a></li>
+  <li><a href="https://melybee-07.github.io/Pig-Gme/"><img src="./Capture d'écran 2023-05-19 164252.png"></a></li>
+  <li><a href="https://melybee-07.github.io/Pig-Gme/"><img src="./Capture d'écran 2023-05-19 164227.png"></a></li>
 </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
