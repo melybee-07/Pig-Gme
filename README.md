@@ -22,7 +22,7 @@
 
 # 📖 [Pig Game] <a name="about-project"></a>
 
-**[Pig Game]** is a JavaScript-based dice game where players take turns rolling a dice and accumulating points. The goal of the game is to reach a specific score (e.g., 100) before the opponent. This project is built using HTML, CSS, and JavaScript.
+**[Pig Game]** is a JavaScript-based dice game where players take turns rolling a dice and accumulating points. The goal of the game is to reach a specific score (e.g., 100) before the opponent but for my version of this game i made the score limited to 10. This project is built using HTML, CSS, and JavaScript.
 
 # 🕹️ [How to Play] <a name="How-to-Play"></a>
 
@@ -45,9 +45,9 @@ The project contains three files :
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 <ul>
-  <li><a href="https://melybee-07.github.io/Guess-My-Number/">Live Demo Link</a></li>
-  <li><a href="https://melybee-07.github.io/Guess-My-Number/"><img src="./IMG/Capture d'écran 2023-04-17 183506.png"></a></li>
-  <li><a href="https://melybee-07.github.io/Guess-My-Number/"><img src="./IMG/Capture d'écran 2023-04-17 183524.png"></a></li>
+  <li><a href="https://melybee-07.github.io/Pig-Gme/">Live Demo Link</a></li>
+  <li><a href="https://melybee-07.github.io/Pig-Gme/"><img src="./Capture d'écran 2023-05-19 164252"></a></li>
+  <li><a href="https://melybee-07.github.io/Pig-Gme/"><img src="./Capture d'écran 2023-05-19 164227"></a></li>
 </ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -61,7 +61,7 @@ The project contains three files :
 To run the Pig Game locally, follow these steps:
 
 <ul>
-<li>Clone the repository: $ git clone https://github.com/melybee-07/Guess-My-Number.git</li>
+<li>Clone the repository: $ git clone https://github.com/melybee-07/Pig-Gme.git</li>
 <li>Navigate to the project directory: $ cd Pig-Game</li>
 <li>Open the index.html file in your web browser.</li>
 </ul>
